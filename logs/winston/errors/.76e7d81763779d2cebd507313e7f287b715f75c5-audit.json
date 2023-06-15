@@ -54,6 +54,26 @@
             "date": 1686693601167,
             "name": "C:\\Next_level_2\\university-management-auth-service\\logs\\winston\\errors\\Phu-2023-14-06-04-error.log",
             "hash": "0d2a6305b83341fc49c5ec8fd4ba92d3c30ba3b703ed63b09478d618fe0f5d34"
+        },
+        {
+            "date": 1686741092162,
+            "name": "C:\\Next_level_2\\university-management-auth-service\\logs\\winston\\errors\\Phu-2023-14-06-17-error.log",
+            "hash": "94e1225034d43ded7cfe4328dd202e0ba1471d58016f696d953c56e7ff9b13ff"
+        },
+        {
+            "date": 1686774870934,
+            "name": "C:\\Next_level_2\\university-management-auth-service\\logs\\winston\\errors\\Phu-2023-15-06-02-error.log",
+            "hash": "943ca68f14ed3132fd8abb972c653e45692b04e1267873e9d90ab79f2f40d78c"
+        },
+        {
+            "date": 1686778194270,
+            "name": "C:\\Next_level_2\\university-management-auth-service\\logs\\winston\\errors\\Phu-2023-15-06-03-error.log",
+            "hash": "1da775dba1b656a4e04f3d34eb2d863f2462fc656b048debb6aa731e9452cc57"
+        },
+        {
+            "date": 1686820276252,
+            "name": "C:\\Next_level_2\\university-management-auth-service\\logs\\winston\\errors\\Phu-2023-15-06-15-error.log",
+            "hash": "f45e346ecd17a945bbfe4228880c2390e2f8df7fc18bb7e78dc64ea148c87f63"
         }
     ],
     "hashType": "sha256"
